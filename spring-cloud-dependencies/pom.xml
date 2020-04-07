@@ -18,7 +18,7 @@
 		<spring-cloud-aws.version>2.1.4.RELEASE</spring-cloud-aws.version>
 		<spring-cloud-bus.version>2.1.4.RELEASE</spring-cloud-bus.version>
 		<spring-cloud-cloudfoundry.version>2.1.4.RELEASE</spring-cloud-cloudfoundry.version>
-		<spring-cloud-commons.version>2.1.5.RELEASE</spring-cloud-commons.version>
+		<spring-cloud-commons.version>2.1.5.RELEASE-cyzi</spring-cloud-commons.version>
 		<spring-cloud-config.version>2.1.6.RELEASE</spring-cloud-config.version>
 		<spring-cloud-consul.version>2.1.5.RELEASE-cyzi</spring-cloud-consul.version>
 		<spring-cloud-contract.version>2.1.5.RELEASE</spring-cloud-contract.version>
